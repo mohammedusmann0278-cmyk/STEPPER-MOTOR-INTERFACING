@@ -70,6 +70,7 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6c9ff483-28e3-460f-a2ad-4aabdf82ce26" />
 
 ## RESULT
 
